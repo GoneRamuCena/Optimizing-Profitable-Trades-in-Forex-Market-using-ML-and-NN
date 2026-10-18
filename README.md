@@ -48,4 +48,4 @@
 34. Ichimoku_cloud : signal given by ichimoku indicator's cloud, whether market go up or down.
 35. Super Trend : signal given by Super Trend indicator, whether market go up or down.
 
-* Note : For More details go through the project pdf
+* **Note : For More details go through the project pdf**
